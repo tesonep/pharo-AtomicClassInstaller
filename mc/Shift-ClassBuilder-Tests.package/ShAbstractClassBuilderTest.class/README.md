@@ -1,1 +1,0 @@
-Abstract Test class for the Shift Class Builder tests

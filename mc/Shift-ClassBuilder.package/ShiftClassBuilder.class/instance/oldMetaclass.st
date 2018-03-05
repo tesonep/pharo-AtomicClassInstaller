@@ -1,3 +1,0 @@
-accessing
-oldMetaclass
-	^ oldMetaclass

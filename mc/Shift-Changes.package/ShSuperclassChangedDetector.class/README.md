@@ -1,1 +1,0 @@
-I detect if there is a change in the superclass

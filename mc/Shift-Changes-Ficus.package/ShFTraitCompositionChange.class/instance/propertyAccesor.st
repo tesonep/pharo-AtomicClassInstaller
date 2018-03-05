@@ -1,3 +1,0 @@
-checking change
-propertyAccesor
-	^ #traitComposition

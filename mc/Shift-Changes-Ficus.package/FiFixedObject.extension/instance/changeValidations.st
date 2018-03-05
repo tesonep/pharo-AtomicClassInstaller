@@ -1,3 +1,0 @@
-*Shift-Changes-Ficus
-changeValidations
-	^ #().

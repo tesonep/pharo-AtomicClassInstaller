@@ -1,2 +1,0 @@
-class modifications
-afterMethodsCompiled: builder

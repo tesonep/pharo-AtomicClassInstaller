@@ -1,3 +1,0 @@
-accessing
-slotType
-	^ slotType

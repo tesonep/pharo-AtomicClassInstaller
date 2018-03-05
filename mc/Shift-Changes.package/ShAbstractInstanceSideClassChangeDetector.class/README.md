@@ -1,1 +1,0 @@
-I am an special Class change detector, used when we have to include the change in the instance structure.

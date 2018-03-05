@@ -1,1 +1,0 @@
-I am an internal object used by the ShiftClassBuilder to represent the layout of a class.

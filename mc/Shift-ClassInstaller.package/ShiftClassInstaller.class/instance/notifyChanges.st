@@ -1,3 +1,0 @@
-notifications
-notifyChanges
-	builder notifyChanges
